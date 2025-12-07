@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Kotlin Native Application</string>
+    <string name="message">Hello World!</string>
+    <string name="switchButton">Switch To Other Activity</string>
+</resources>

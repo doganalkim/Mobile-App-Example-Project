@@ -2,4 +2,8 @@
     <string name="app_name">My Kotlin Native Application</string>
     <string name="message">Hello World!</string>
     <string name="switchButton">Switch To Other Activity</string>
+    <string name="goBack">Go Back To Main Page</string>
+    <string name="secondMessage">Welcome To The Target Activity</string>
+    <string name="message_with_result">%1$s\n%2$s</string>
+    <string name="suggestion">Go to the target activity and come back!</string>
 </resources>
